@@ -52,7 +52,7 @@ exam_mark_prediction/
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/exam-mark-prediction.git
+git clone https://github.com/selvan-01/exam-mark-prediction.git
 cd exam-mark-prediction
 
 2️⃣ Install Dependencies
