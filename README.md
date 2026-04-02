@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail33.png" width="800">
+</p>
+
+---
+
 # 📊 Exam Mark Prediction using Multiple Linear Regression
 
 🚀 A Machine Learning project that predicts student exam marks based on multiple factors like study hours, sleep, and previous performance using Multiple Linear Regression.
@@ -102,6 +108,11 @@ Predicted Exam Mark instantly!
 - 🤖 Try advanced models (Random Forest, XGBoost)
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/exam-mark-prediction.git)
 
 ## 👨‍💻 Author
 
